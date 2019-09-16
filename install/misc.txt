@@ -1,0 +1,1 @@
+GRANT EXECUTE ON [dbo].[sp_app_authorize] TO <insert user id>
